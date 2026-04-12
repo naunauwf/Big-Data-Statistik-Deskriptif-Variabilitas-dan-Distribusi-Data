@@ -1,0 +1,9 @@
+# random
+ex-command.txt
+nohup.out
+
+.venv/
+
+# data
+*.csv
+*.xlsx
