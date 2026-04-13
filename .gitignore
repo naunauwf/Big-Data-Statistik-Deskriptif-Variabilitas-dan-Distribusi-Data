@@ -4,6 +4,3 @@ nohup.out
 
 .venv/
 
-# data
-*.csv
-*.xlsx
